@@ -1,6 +1,8 @@
 ## Access to iSALE
 
-At present, iSALE is not fully open source. It is distributed on a case-by-case basis to academic users in the impact community, strictly for non-commercial use. Scientists interested in using or developing iSALE may apply to use iSALE by completing the [application form](https://isale-code.github.io/access.html).
+At present, iSALE is not fully open source. It is distributed on a case-by-case basis to academic users in the impact community, strictly for non-commercial use. Scientists interested in using or developing iSALE may apply to use iSALE by completing the [application form](https://isale-code.github.io/access.html). 
+
+iSALE is distributed via a private GitHub repository. Interested Users are required to create a GitHub username prior to applying for iSALE access.
 
 Ongoing access to iSALE is contingent on the following terms:
 
@@ -8,7 +10,7 @@ Ongoing access to iSALE is contingent on the following terms:
 * iSALE accounts are for use only by the registered account holder; redistribution of the code in any part or form is not permitted.
 * iSALE comes with absolutely no warranty and no guarantee of support
 
-Failure to comply with any of these terms will result in withdrawal of iSALE access.
+Failure to comply with any of these terms will result in withdrawal of iSALE access. Applicants will be asked to agree to these terms and conditions on submission of the [application form](https://isale-code.github.io/access.html).
 
 > *Please note: Access to the three-dimensional variant "iSALE-3D" is currently restricted to experienced iSALE-2D users who already contributed to the improvement of iSALE (developments, bug-reports, supporting other users)*
 
