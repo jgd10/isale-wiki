@@ -134,9 +134,7 @@ everything seems to be OK - installation into.......... /Users/isale_user/iSALE/
 ----------------------------------------------------------------
 </pre>
 
-See the [[configure|configure options]] for more details on the configure process.  For example, if configure reports that iSALE2D/3D or any of the associated tools (pySALEPlot, vimod, jtools) are not available to install, you may need to set certain [[configure|configure options]] to manually locate required libraries. 
-
-> Additional configuration options are explained [[configure|here]]. See also the configure-section in our [[FAQ#configure|FAQ]] for help.
+If configure reports that iSALE2D/3D or any of the associated tools (pySALEPlot, vimod, jtools) are not available to install, you may need to set certain configure options to manually locate required libraries. 
 
 ### Compiling and installing iSALE-Dellen
 
@@ -166,11 +164,9 @@ export PYTHONPATH="<prefix>/lib:\${PYTHONPATH}"
 
 Where `<prefix>` is whatever you entered as the installation directory for iSALE-Dellen using the `--prefix` option (e.g., `/data/isale_user/iSALE`). For shells other than bash, this syntax may vary.
 
-> Information about the installed files and the structure of the installation directory can be found [[modelsdir|here]].
-
 ### Running the demonstration simulation
 
-iSALE is distributed with input files for a simple demonstration simulation and a number of more complex [example problems](https://github.com/isale-code/iSALE2D/wiki/Example-problems).
+iSALE is distributed with input files for a simple demonstration simulation and a number of more complex [example problems](Example-problems).
 
 To run the demonstration problem after installing iSALE, go into the install directory `<prefix>` (e.g., `/data/isale_user/iSALE`) and list the contents.
 <pre>
@@ -182,7 +178,7 @@ If you explore this directory, you will find the following useful directories:
 * `bin/` contains all of the iSALE executables
 * `share/doc` contains iSALE documentation, including the manual (`iSALE_manual.pdf`)
 * `share/eos` contains equation of state input files for iSALE
-* `share/examples` contains input files for a number of [example problems](https://github.com/isale-code/iSALE2D/wiki/Example-problems)
+* `share/examples` contains input files for a number of [example problems](Example-problems)
 
 The best example to run first is `demo2D`. To run this, go into its directory
 <pre>
@@ -204,7 +200,7 @@ You should see a lot of information (about the set-up of the simulation you are 
 
 The terminal will remain inactive for a few minutes while the simulation runs (unless you run iSALE in the background: `iSALE2D &`.
 
-When the simulation ends you can visualise output of the simulation using pySALEPlot or VIMoD and compare your results with those described [here](https://github.com/isale-code/iSALE2D/wiki/iSALE-2D-demonstration).
+When the simulation ends you can visualise output of the simulation using pySALEPlot or VIMoD and compare your results with those described [here](iSALE-2D-demonstration).
 
 > For advanced instructions how to use iSALE or how to setup new simulations please read the [iSALE manual](https://dx.doi.org/10.6084/m9.figshare.3473690)
 
