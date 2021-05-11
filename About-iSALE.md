@@ -106,7 +106,7 @@ ptools (libptools.a) is a library containing routines for parsing and editing th
 
 # Examples
 
-*[[examples|Examples for iSALE-Simulations can be found her.e.]]*
+*[Examples for iSALE-Simulations can be found here.](Example-problems)*
 
 # References
 
