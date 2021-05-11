@@ -32,7 +32,7 @@ python Plotting/cratergrowth.py
 
 This will output a figure (cratergrowth.png) which plots the iSALE crater dimensions against the experiments documented in Pierazzo et al. (2008).
 
-To use pySALEPlot to compare this model with the [aluminum60612D](https://github.com/isale-code/iSALE2D/wiki/Cratering-in-Aluminum-6061/) example, see [[psp_plot_multiple_models|this example pySALEPlot script]]
+To use pySALEPlot to compare this model with the [aluminum 6061](Cratering-in-Aluminum-6061) example, see [[psp_plot_multiple_models|this example pySALEPlot script]]
 
 ### Model Parameters Summary.
 
