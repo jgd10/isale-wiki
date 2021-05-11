@@ -76,7 +76,7 @@ The iSALE manual is written in LaTeX and requires `pdflatex` to compile it. Deve
 
 ### Install iSALE
 
-At this point you should be ready to install iSALE in the [standard way](https://github.com/isale-code/isale/wiki/Installation-instructions#installing-isale-dellen-for-scientific-use)
+At this point you should be ready to install iSALE in the [standard way](Installation-instructions#installing-isale-dellen-for-scientific-use).
 
 ## Yosemite (10.10), El Capitan (10.11) and macOS Sierra (10.12)
 
@@ -175,7 +175,7 @@ The iSALE manual is written in LaTeX and requires `pdflatex` to compile it. Deve
 
 ### Install iSALE
 
-At this point you should be ready to install iSALE in the [[Install_guide#Installing-iSALE-Dellen-for-scientific-use|standard way]]
+At this point you should be ready to install iSALE in the [standard way](Installation-instructions#installing-isale-dellen-for-scientific-use).
 
 ## Snow Leopard (10.6), Lion (10.7) and Mountain Lion (10.8) (64-bit)
 
@@ -294,7 +294,7 @@ The iSALE manual is written in LaTeX and requires `pdflatex` to compile it. Deve
 
 ### Install iSALE
 
-At this point you should be ready to install iSALE in the [[Install_guide#Installing-iSALE-Chicxulub-for-scientific-use|standard way]]
+At this point you should be ready to install iSALE in the [standard way](Installation-instructions#installing-isale-dellen-for-scientific-use).
 
 ### A note about libpng
 
