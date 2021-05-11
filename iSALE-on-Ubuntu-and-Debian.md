@@ -10,7 +10,7 @@ To install the packages required for the pySALEPlot visualisation software:
 
 Note you will need to configure `--with-pysaleplot` to use pySALEPlot.
 
-After installing these packages you are ready to [download and install iSALE-Dellen](https://github.com/isale-code/iSALE2D/wiki/Installation-instructions#installing-isale-dellen-for-scientific-use)
+After installing these packages you are ready to [download and install iSALE-Dellen](Installation-instructions#installing-isale-dellen-for-scientific-use)
 
 ## Optional pre-requisites
 
