@@ -129,7 +129,9 @@ LAY_TYPE  Layer type      : 20
 
 By doing so, `iSALE` will switch from the default setup-procedure to a separate setup-routine specifically designed for mesoscale problems (pore collapse). This routine requires additional parameters which need to be provided in a section within the asteroid input-file (asteroid.inp):
 
-|_abbreviation_|_Description_|_type_|_optional?_|_default value (if optional)_|
+
+| _abbreviation_ | _Description_ | _type_ | _optional?_ | _default value (if optional)_ |
+| -------------- | ------------- | ------ | ----------- | ----------------------------- |
 | S_PORES | pore setup | integer | yes | 1 (regular distribution) |
 | SAMPLE_T| sample area top | integer | yes | top of buffer plate-100cells |
 | SAMPLE_B| sample area bottom | integer | yes | 400 |
@@ -144,9 +146,10 @@ By doing so, `iSALE` will switch from the default setup-procedure to a separate 
 | P_LC_X | start pore in x | integer | yes | 1 (first cell) |
 | P_LC_Y | start pore in y | integer | yes | 1 (first cell) |
 
+
 These parameters can be used to define the arrangement and number of pores in the sample.
 
-h3. Defining the pore space geometry
+### Defining the pore space geometry
 
 The setup of pores or the arrangement of pores is defined by
 <pre>
