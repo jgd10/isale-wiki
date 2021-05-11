@@ -2,7 +2,7 @@
 
 This is an impact of a 6.35-mm diameter aluminium sphere into an aluminium target. The impact velocity is 7km/s. The impactor is represented by the Tillotson equation of state for Aluminium. Gravity is not considered in this calculation. No geotherm is set in the test case---the target has a constant temperature of 293K.
 
-The model is an attempt to reproduce the aluminium validation experiments of Pierazzo et al. (2008). There are two validation tests to run into different alloys of Aluminium. This example uses Al alloy 6061-T6 (see also the other aluminium example using alloy [aluminum11002D](https://github.com/isale-code/iSALE2D/wiki/Cratering-in-Aluminum-1100/))
+The model is an attempt to reproduce the aluminium validation experiments of Pierazzo et al. (2008). There are two validation tests to run into different alloys of Aluminium. This example uses Al alloy 6061-T6 (see also the other aluminium example using alloy [aluminum 1100](Cratering-in-Aluminum-1100)).
 
 ### Running the simulation
 
@@ -32,7 +32,7 @@ python Plotting/cratergrowth.py
 
 This will output a figure (cratergrowth.png) which plots the iSALE crater dimensions against the experiments documented in Pierazzo et al. (2008).
 
-To use pySALEPlot to compare this model with the [aluminum11002D](https://github.com/isale-code/iSALE2D/wiki/Cratering-in-Aluminum-1100/) example, see [[psp_plot_multiple_models|this example pySALEPlot script]].
+To use pySALEPlot to compare this model with the [aluminum 1100](Cratering-in-Aluminum-1100)) example, see [[psp_plot_multiple_models|this example pySALEPlot script]].
 
 ### Model Parameters Summary.
 
