@@ -27,6 +27,6 @@ Note that the following instructions can also be used on Mac OSX, but iSALE can 
 
 ### Installing iSALE and pre-requisites
 
-Once you have successfully installed Ubuntu on a Virtual Machine on your Windows computer, you should follow the instructions for [iSALE on Ubuntu](https://github.com/isale-code/iSALE2D/wiki/iSALE-on-Ubuntu-and-Debian).
+Once you have successfully installed Ubuntu on a Virtual Machine on your Windows computer, you should follow the instructions for [iSALE on Ubuntu](iSALE-on-Ubuntu-and-Debian).
 
-Once you have installed the Ubuntu pre-requisites, you can [install](https://github.com/isale-code/iSALE2D/wiki/Installation-instructions#installing-isale-dellen-for-scientific-use) the relevant version of iSALE.
+Once you have installed the Ubuntu pre-requisites, you can [install](Installation-instructions#installing-isale-dellen-for-scientific-use) the relevant version of iSALE.
