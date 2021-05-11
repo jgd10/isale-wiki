@@ -31,7 +31,7 @@ Those wishing to use iSALE as a simulation tool for science should download and 
 
 ### Downloading iSALE-Dellen
 
-First, download a copy of the code from the `releases` tab of the repository, or by clicking here: [iSALE-dellen](https://github.com/isale-code/iSALE2D/releases/download/dellen/iSALE2D-dellen.tar.gz)
+First, download a copy of the code from the `releases` tab of the repository, or by clicking here: [iSALE-dellen](https://github.com/isale-code/iSALE2D/releases/download/dellen/iSALE2D-dellen.tar.gz). (Note, if you get an error from that link, you need to first [apply for access to iSALE](https://isale-code.github.io/access.html), and make sure you are signed into your GitHub account). 
 
 In the terminal, go to where you downloaded the iSALE dellen release, and unpack the tarball:
 
