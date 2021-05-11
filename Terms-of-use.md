@@ -1,16 +1,6 @@
 ## Access to iSALE
 
-At present, iSALE is not fully open source. It is distributed on a case-by-case basis to academic users in the impact community, strictly for non-commercial use. Scientists interested in using or developing iSALE may apply to use iSALE by email (to isale at imperial.ac.uk), providing the following information.
-* Name and institution
-* Name of supervisor (for student applicants)
-* Email address
-* Preferred username
-* Date of birth
-* Intended use of iSALE (short description)
-* Previous experience of numerical modelling and computer operating systems (self or supervisor)
-* *Please also cut-and-paste the following paragraph in your application email:*
-
-> I agree to the terms and conditions of iSALE use as described on the iSALE website (http://www.isale-code.de/redmine/projects/isale/wiki/Terms_of_use).
+At present, iSALE is not fully open source. It is distributed on a case-by-case basis to academic users in the impact community, strictly for non-commercial use. Scientists interested in using or developing iSALE may apply to use iSALE by completing the [application form](https://isale-code.github.io/access.html).
 
 Ongoing access to iSALE is contingent on the following terms:
 
