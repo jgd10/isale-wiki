@@ -10,7 +10,7 @@ The recommended platform for using iSALE is Ubuntu or Fedora.
 
 * [[iSALE on Ubuntu |iSALE on Ubuntu and Debian]]
 * [[iSALE on Fedora]]
-* [[iSALE on Mac OS X ]]
+* [[iSALE on MacOS ]]
 * [[iSALE on Windows (using VirtualBox and Ubuntu)]]
 * [[iSALE on CentOS]]
 
