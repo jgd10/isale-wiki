@@ -14,8 +14,6 @@ Since 2004, iSALE has been co-developed by Collins and Wünnemann and since 2006
 
 Meanwhile, a three-dimensional version of iSALE is available, developed by Dirk Elbeshausen since 2006[17]. This code also includes a fast and accurate adaptive interface reconstruction algorithm[18] and is parallelized by using Message Passing Interfaces ("MPI":http://www.mcs.anl.gov/research/projects/mpi/).
 
-iSALE is maintained in a repository at the Museum für Naturkunde, Berlin, using the revision control system "Subversion":http://subversion.apache.org/. Each code version has to pass lots of tests by using "buildbot":http://trac.buildbot.net/ running at Imperial College, London.
-
 # Components of the iSALE-code
 
 iSALE is not just a code, physically it is a package comprising different tools, libraries, and programs. The main components of iSALE are briefly described in the following. A more detailed description of the usage of all these programs can be found on separate sites as well as in the manual (PDF) which is contained in the repository.
