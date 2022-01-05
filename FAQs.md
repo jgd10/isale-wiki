@@ -46,6 +46,8 @@ for i in range(0,model.nsteps):
     tracer_pressure.append(step.TrP[tracerID])
 ```
 
+_Note that the following method is currently only available in the developer version of `pySALEPlot`_
+
 Each tracer can be considered to track the parcel of material at its initial location, but the volume and mass of material represented by the tracer is not stored by default. This can be calculated in post-processing, by invoking the `model.tracerMassVol` function. For example, if you run:
 
 ```
