@@ -6,7 +6,7 @@ The impacting body is an oblate spheroid with a semi-major axis of 2.4 km and a 
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/Collision2D
+cd &lt;prefix&gt;/share/examples/Collision2D
 </pre>
 
 Run iSALE2D.  The simulation will take several minutes, so this should be run in the background.

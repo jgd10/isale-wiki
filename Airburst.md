@@ -9,7 +9,7 @@ The example demonstrates how to set-up iSALE2D for problems involving the static
 Go to the relevant example directory
 
 <pre>
-cd <prefix>/share/examples/Airburst
+cd &lt;prefix&gt;/share/examples/Airburst
 </pre>
 
 Run iSALE2D. The simulation will take several hours, so this should be run in the background.

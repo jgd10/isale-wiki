@@ -8,7 +8,7 @@ The example demonstrates the dilatancy model and how to compute gravity anomalie
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/dilatancy
+cd &lt;prefix&gt;/share/examples/dilatancy
 </pre>
 
 Run iSALE2D.  The simulation will take several hours, so this should be run in the background.

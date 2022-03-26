@@ -8,7 +8,7 @@ The model is similar to those described by Ivanov (2005), Collins et al. (2008) 
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/Chicxulub
+cd &lt;prefix&gt;/share/examples/Chicxulub
 </pre>
 
 Run iSALE2D.  The simulation will take several hours, so this should be run in the background.

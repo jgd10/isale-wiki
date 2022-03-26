@@ -8,7 +8,7 @@ The example demonstrates how to set-up iSALE for 2D self-gravity problems involv
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/SelfGravity2D
+cd &lt;prefix&gt;/share/examples/SelfGravity2D
 </pre>
 
 Run iSALE2D.  The simulation takes about half an hour, so this should be run in the background.

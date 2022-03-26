@@ -8,7 +8,7 @@ This example can be used as a template for simple numerical planar-impact experi
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/planar_eulerian_2D
+cd &lt;prefix&gt;/share/examples/planar_eulerian_2D
 </pre>
 
 Run iSALE2D.  The simulation will take several minutes, so this should be run in the background.

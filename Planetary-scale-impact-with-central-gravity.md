@@ -8,7 +8,7 @@ The example demonstrates how to set-up iSALE for 2D central gravity problems inv
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/Planet2D
+cd &lt;prefix&gt;/share/examples/Planet2D
 </pre>
 
 Run iSALE2D.  The simulation takes about half an hour, so this should be run in the background.

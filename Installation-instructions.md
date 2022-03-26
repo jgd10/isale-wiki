@@ -159,7 +159,7 @@ This installs the binaries, libraries, manpages and documentations, example-file
 At this point, you should add the location of the installed pySALEPlot libraries to your `PYTHONPATH`, so that they are accessible from wherever you run a pySALEPlot script from. To do this, add the following line to your ~/.bashrc file:
 
 <pre>
-export PYTHONPATH="<prefix>/lib:\${PYTHONPATH}"
+export PYTHONPATH="&lt;prefix&gt;/lib:\${PYTHONPATH}"
 </pre>
 
 Where `<prefix>` is whatever you entered as the installation directory for iSALE-Dellen using the `--prefix` option (e.g., `/data/isale_user/iSALE`). For shells other than bash, this syntax may vary.
@@ -170,7 +170,7 @@ iSALE is distributed with input files for a simple demonstration simulation and 
 
 To run the demonstration problem after installing iSALE, go into the install directory `<prefix>` (e.g., `/data/isale_user/iSALE`) and list the contents.
 <pre>
-cd <prefix>
+cd &lt;prefix&gt;
 </pre>
 
 If you explore this directory, you will find the following useful directories:

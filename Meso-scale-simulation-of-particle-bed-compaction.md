@@ -6,7 +6,7 @@ This simulation demonstrates how to set up iSALE to model simple planar impact e
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/MesoParticles2D
+cd &lt;prefix&gt;/share/examples/MesoParticles2D
 </pre>
 
 Run iSALE2D.  The simulation will take several minutes, so this should be run in the background.

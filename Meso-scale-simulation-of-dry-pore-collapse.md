@@ -7,7 +7,7 @@ The model setup is very similar to a typical laboratory shock experiment. The im
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/mesoscale2D
+cd &lt;prefix&gt;/share/examples/mesoscale2D
 </pre>
 
 Run iSALE2D. The simulation will take up to several hours, so this should be run in the background.
@@ -33,7 +33,7 @@ python Plotting/Pre.py
 
 You can see the images in the `Plots/` directory.
 
-The pySALEPlot plotting scripts (see also <prefix>/share/examples/mesoscale2D/Plotting/Pre.py) can easily be modified to generate additional images or can be adapted to your specific problem.
+The pySALEPlot plotting scripts (see also &lt;prefix&gt;/share/examples/mesoscale2D/Plotting/Pre.py) can easily be modified to generate additional images or can be adapted to your specific problem.
 
 ## Model parameters summary.
 

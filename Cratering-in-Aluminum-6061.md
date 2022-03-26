@@ -8,7 +8,7 @@ The model is an attempt to reproduce the aluminium validation experiments of Pie
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/aluminum_6061_2D
+cd &lt;prefix&gt;/share/examples/aluminum_6061_2D
 </pre>
 
 Run iSALE2D.  The simulation will take several minutes, so this should be run in the background.

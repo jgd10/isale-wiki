@@ -8,7 +8,7 @@ This example illustrates the limitations of the Lagrangian approach for simulati
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/planar_lagrangian_2D
+cd &lt;prefix&gt;/share/examples/planar_lagrangian_2D
 </pre>
 
 Run iSALE2D.  The simulation will take several minutes, so this should be run in the background.
@@ -16,7 +16,7 @@ Run iSALE2D.  The simulation will take several minutes, so this should be run in
 ./iSALE2D &
 </pre>
 
-Go into the Plotting directory and produce images of the simulation to visualise the pressure field and a line graph of the pressure pulse at x=0 (output in @Pressure/@).
+Go into the Plotting directory and produce images of the simulation to visualise the pressure field and a line graph of the pressure pulse at x=0 (output in `Pressure/`).
 <pre>
 python Plotting/Pressure.py
 </pre>
@@ -40,7 +40,7 @@ GRIDSPC               grid spacing                  : 5.D-4
 CYL                   Cylind. geometry              : 1.0D0
 </pre>
 
-The set-up type is @DEFAULT@ with no gravity field. The ALE model is set to @LAGRANGE@.
+The set-up type is `DEFAULT` with no gravity field. The ALE model is set to `LAGRANGE`.
 
 <pre>
 ------------------- Global setup parameters -----------------------------
@@ -50,7 +50,7 @@ T_SURF                Surface temp                  : 293.D0
 GRAD_TYPE             gradient type                 : NONE
 </pre>
 
-A single impactor object strikes a two layer target.  The iron impactor has a @PLATE@ geometry (extending the full width of the mesh) with a half-thickness if 26 cells.
+A single impactor object strikes a two layer target.  The iron impactor has a `PLATE` geometry (extending the full width of the mesh) with a half-thickness if 26 cells.
 The impactor velocity is 0.6 km/s vertically down.  In the target, the bottom iron layer extends from cell 1 to  cell 40; above this is a quartzite layer, extending from cell 41 to cell 60. 
 
 <pre>

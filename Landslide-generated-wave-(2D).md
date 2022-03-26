@@ -14,7 +14,7 @@ The slope has an angle of 45° and is composed of a strong material. For this pu
 
 Go to the relevant example directory
 <pre>
-cd <prefix>/share/examples/landslide
+cd &lt;prefix&gt;/share/examples/landslide
 </pre>
 
 Run iSALE2D. 8The simulation will take a day or even longer*, so this should be run in the background.

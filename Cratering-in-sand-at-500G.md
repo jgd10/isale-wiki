@@ -5,7 +5,7 @@ This numerical model shows a vertical impact into sand under very high gravity (
 Change into the relevant example directory and run the problem in the background. The calculation should take a few hours.
 
 <pre>
-cd <prefix>/share/examples/Sand2D
+cd &lt;prefix&gt;/share/examples/Sand2D
 ./iSALE2D &
 </pre>
 
